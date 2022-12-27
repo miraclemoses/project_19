@@ -64,5 +64,5 @@ We make use of dynamic inventory to get Ip address of our servers created based 
 
 ## Step 5. Destroying Resources
 #
-![](./terraform%20destroy.PNG)
+![](./Images/terraform%20destroy.PNG)
 #
