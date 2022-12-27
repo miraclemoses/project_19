@@ -59,10 +59,10 @@ We make use of dynamic inventory to get Ip address of our servers created based 
 ##  Step 4. Checking Successful 
 #
 ![](./Images/tooling%20site.PNG)
-![](./Images/wordpress.PNG)
+
 #
 
 ## Step 5. Destroying Resources
 #
-![](./Images/terraform%20destroy.PNG)
+![](./terraform%20destroy.PNG)
 #
